@@ -5,4 +5,4 @@ This repository holds my programming projects done during the period of the stan
 
 # StanCode Project Demonstration:
 - [Break Out Game Demo video](<https://drive.google.com/file/d/14HGs4fGLV4uSspd1ecJGUyee1B3_SAw2/view?usp=sharing>)  ([file](<https://github.com/zhixiulin1996/Coding_demo/tree/main/stanCode_projects/Break%20Out%20Game>))
-- [Name Popularity Searching System](<https://github.com/zhixiulin1996/Coding_demo/tree/main/stanCode_projects/Name%20Popularity%20Searching%20System>)
+- [Name Popularity Searching System Demo video](<https://drive.google.com/file/d/14PrjoJjjQ3j72xoBb9r3z55cFXXeW0Xk/view?usp=sharing>)  ([file](<https://github.com/zhixiulin1996/Coding_demo/tree/main/stanCode_projects/Name%20Popularity%20Searching%20System>))
